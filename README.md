@@ -1,0 +1,2 @@
+# String-Manipulation
+Write a function that takes in a C string as the input parameter and reverses the string. The function should use 2 pointers, front and rear. The front should reference the first character in the string, and the rear should reference the last character of the string. Reverse the characters by swapping the characters referenced by front and rear, the increment front to the next character, and decrement rear to the preceding character until the entire string is reversed.
